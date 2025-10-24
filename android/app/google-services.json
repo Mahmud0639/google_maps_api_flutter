@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255418136741",
+    "project_id": "my-test-app-7c77a",
+    "storage_bucket": "my-test-app-7c77a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255418136741:android:dc2d197038e6b7ef88b54c",
+        "android_client_info": {
+          "package_name": "com.mahmiu.google_maps_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBigYm3Abf1zta0EDgYpkWn9rAO0K8RvOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
